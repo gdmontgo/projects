@@ -1,3 +1,10 @@
+/*
+#363433 - grey
+#5bb069 - green
+#4d8d94 - medium blue
+*/
+
+
 body
 {
 	background-color:#363433;
@@ -8,7 +15,7 @@ body
 	{
 	list-style-type:none;
 	padding:0px;
-	margin:0px 10px;
+	margin:0px 4px;
 	}
 #topnav li
 	{
@@ -19,8 +26,8 @@ body
 	{
 	display: block;
 	background-color:#4d8d94;
-	padding: 18px 4px;
-	margin: 40px;
+	padding: 18px 40px;
+	
 	color:#ffffff;
 	text-align:center;
 	font-weight:bold;
