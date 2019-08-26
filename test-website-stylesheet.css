@@ -1,6 +1,6 @@
 body
 {
-	background-color:#8c649c;
+	background-color:#363433;
 }
 
 #topnav
@@ -17,7 +17,7 @@ body
 #topnav li a
 	{
 	display: block;
-	background-color:#749c64;
+	background-color:#4d8d94;
 	padding: 18px;
 	color:#ffffff;
 	text-align:center;
