@@ -17,9 +17,9 @@ body
 #topnav li a
 	{
 	display: block;
-	background-color:#green;
+	background-color:green;
 	padding: 18px;
-	color:#white;
+	color:white;
 	text-align:center;
 	font-weight:bold;
 	}
