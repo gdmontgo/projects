@@ -1,20 +1,20 @@
-background
+body
 {
-	color:indigo;
+	background-color:indigo;
 }
 
-#nav
+#topnav
 	{
 	list-style-type:none;
 	padding:0px;
 	margin:0px 10px;
 	}
-#nav li
+#topnav li
 	{
 	float: left;
 	overflow: auto;
 	}
-#nav li a
+#topnav li a
 	{
 	display: block;
 	background-color:#green;
