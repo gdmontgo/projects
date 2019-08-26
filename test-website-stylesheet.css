@@ -19,8 +19,15 @@ body
 	{
 	display: block;
 	background-color:#4d8d94;
-	padding: 18px 30px;
+	padding: 18px 4px;
+	margin: 40px;
 	color:#ffffff;
 	text-align:center;
 	font-weight:bold;
+	}
+	
+#3dprintpicpumpkin
+	{
+	align:center;
+	border:#4d8d94;
 	}
