@@ -1,6 +1,7 @@
 body
 {
 	background-color:#363433;
+	color:#ffffff;
 }
 
 #topnav
@@ -18,7 +19,7 @@ body
 	{
 	display: block;
 	background-color:#4d8d94;
-	padding: 18px;
+	padding: 18px 30px;
 	color:#ffffff;
 	text-align:center;
 	font-weight:bold;
